@@ -820,7 +820,7 @@ a.navbar-brand :hover{
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     color: #fff;
     cursor: default;
-    background-color: #2189FF;
+    background-color: #FF6F61;
     border: 0;
     border-bottom-color: transparent;
 }
@@ -1289,7 +1289,7 @@ a.navbar-brand :hover{
 	text-decoration:none;
 }
 .widget.categories .list-unstyled li a:hover{
-	color: #85DBFF;
+	color: #FF6F61;
 }
 
 .widget .shop-item{
@@ -1456,7 +1456,7 @@ a.navbar-brand :hover{
 }
 .owl-theme .owl-controls .owl-page.active span, 
 .owl-theme .owl-controls.clickable .owl-page:hover span{
-	background: #2189fe;
+	background: #FF6F61;
 }
 
 /* Client */
@@ -1694,14 +1694,14 @@ a.navbar-brand :hover{
 .shake .form-control:hover,
 .shake .form-control:focus {
 	outline: 0;
-	border: 1px solid #2189fe;
+	border: 1px solid #FF6F61;
 	-webkit-box-shadow: none;
 		  box-shadow: none;
 }
 .shake .btn-default{
     padding: 15px 25px;
-	background-color: #2189fe;
-    border-color: #2189fe;
+	background-color: #FF6F61;
+    border-color: #FF6F61;
     border-radius: 0;
     color: #fff;
     font-weight: bold;
@@ -1710,8 +1710,8 @@ a.navbar-brand :hover{
 .shake .btn-default:active,
 .shake .btn-default:visited,
 .shake .btn-default:hover {
-    background-color: #1064C3;
-    border-color: #1064C3;
+    background-color: #FF6F61;
+    border-color: #FF6F61;
 	color: #fff;
 }
 p.help-block.text-danger li {
@@ -1808,7 +1808,7 @@ p.help-block.text-danger li {
 }
 .no-touch #cd-zoom-in:hover,
 .no-touch #cd-zoom-out:hover {
-	background-color: #0071BC;
+	background-color: #FF6F61;
 }
 #cd-zoom-in {
 	background-position: 50% 0;
@@ -1833,12 +1833,12 @@ p.help-block.text-danger li {
 	height: 130px;
 	border-radius: 50%;
 	background: #fff;
-	color: #2189fe;
+	color: #FF6F61;
 	display: inline-table;
 	margin: 10px 10px;
 }
 .connect .item:hover{
-	background: #2189fe;
+	background: #FF6F61;
 	color: #fff;
 }
 .connect .item .fa{
@@ -1860,7 +1860,7 @@ p.help-block.text-danger li {
 }
 .fcopy{
 	background-color: #333333;
-	color: #2189fe;
+	color: #FF6F61;
 	padding: 20px 20px;
 }
 .footer-item{
@@ -1896,7 +1896,7 @@ p.help-block.text-danger li {
 .footer-title{
 	font-size: 18px;
     line-height: 22px;
-    color: #2189fe;
+    color: #FF6F61;
     position:relative;
 	padding: 10px 0;
 	margin-bottom: 40px;
@@ -1964,7 +1964,7 @@ p.help-block.text-danger li {
     height: 24px;
     background-color: transparent;
     margin-left: 1px;
-    border-bottom: 1px solid #0071BC;
+    border-bottom: 1px solid #FF6F61;
 	display:block;
 	margin-bottom:40px;
 }
